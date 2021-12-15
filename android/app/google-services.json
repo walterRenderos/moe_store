@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841342326925",
+    "project_id": "moes-f6557",
+    "storage_bucket": "moes-f6557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841342326925:android:179877c293ef56b368eac4",
+        "android_client_info": {
+          "package_name": "com.example.moe_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841342326925-vriv4sdsi4eoh4pifhasr501reilv2ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQkjyfZDEOzfRyCVh3BUol44EwhHLO1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841342326925-vriv4sdsi4eoh4pifhasr501reilv2ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
